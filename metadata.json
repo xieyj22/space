@@ -1,0 +1,6 @@
+{
+  "name": "星际征途：太空肉鸽",
+  "description": "一款热血硬核的太空肉鸽生存横屏雷电游戏！操控精锐战机在璀璨星空中激战，拾取晶体升级科技、解锁超级弹幕，打败巨型宇宙 Boss！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
